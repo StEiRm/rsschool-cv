@@ -1,1 +1,1 @@
-https://StEiRm.github.io/rsschool-cv/cv
+https://StEiRm.github.io/rsschool-cv/cv.md
